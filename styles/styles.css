@@ -12,8 +12,8 @@
 .header-content{
     text-align: right;
     width: 35%;
-    background-color: red;
-    margin: 200px 130px 160px 840px;
+    position: absolute;
+    margin: 210px 230px 160px 840px;
 }
 .header-title{
     font-weight: 700;
